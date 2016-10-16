@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly1", "Assembly1\Assembly1.csproj", "{508724A8-6B7E-4050-827C-FBCB011D43EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly2", "Assembly2\Assembly2.csproj", "{855B290A-8759-451D-A0F2-E71BDB575782}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{508724A8-6B7E-4050-827C-FBCB011D43EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{508724A8-6B7E-4050-827C-FBCB011D43EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{508724A8-6B7E-4050-827C-FBCB011D43EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{508724A8-6B7E-4050-827C-FBCB011D43EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{855B290A-8759-451D-A0F2-E71BDB575782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{855B290A-8759-451D-A0F2-E71BDB575782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{855B290A-8759-451D-A0F2-E71BDB575782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{855B290A-8759-451D-A0F2-E71BDB575782}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

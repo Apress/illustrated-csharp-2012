@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Page247", "Page247\Page247.csproj", "{4E0AB7CF-07BE-467E-87CB-8177C6108C7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E0AB7CF-07BE-467E-87CB-8177C6108C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0AB7CF-07BE-467E-87CB-8177C6108C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0AB7CF-07BE-467E-87CB-8177C6108C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0AB7CF-07BE-467E-87CB-8177C6108C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

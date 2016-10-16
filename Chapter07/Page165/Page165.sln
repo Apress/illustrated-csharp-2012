@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Page165", "Page165\Page165.csproj", "{DBDBAD6B-24DF-4068-BE64-A53342586907}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBDBAD6B-24DF-4068-BE64-A53342586907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDBAD6B-24DF-4068-BE64-A53342586907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDBAD6B-24DF-4068-BE64-A53342586907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDBAD6B-24DF-4068-BE64-A53342586907}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
